@@ -17,7 +17,7 @@ Oxocarbon is a set of community ports of IBM's carbon color palette and design p
 
 ## Showcase
 
-<screenshots>
+![2024-05-28-08-24-12_screenshot](https://github.com/bitterhalt/oxocarbon-foot/assets/95308907/e4c1d0d3-80d8-46fd-b25f-148c9e1239a9)
 
 ## Install
 
