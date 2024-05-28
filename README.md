@@ -1,6 +1,6 @@
 <div align="center">
 
-# oxocarbon-<app-name>
+# oxocarbon-foot
 
 </div>
 
@@ -21,20 +21,7 @@ Oxocarbon is a set of community ports of IBM's carbon color palette and design p
 
 ## Install
 
-- Installation
-
-## Features (optional)
-
-- Special features and UI tweaks
-
-### Plugin Support (optional)
-
-- What plugins does it support
-
-## FAQ (optional)
-
-- Q: **_"Where can I find the doc?"_**\
- A: Run `:help theme`
+- Replace the current color definitions in your foot.ini configuration file with the content from the oxocarbon-foot.ini file.
 
 ## License
 
